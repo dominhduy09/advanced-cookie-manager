@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)](https://github.com/dominhduy09/advanced-cookie-manager)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/manifest-V3-purple?style=flat-square)](https://developer.chrome.com/docs/extensions/mv3/)
-[![Chrome Extension](https://img.shields.io/badge/chrome-extension-yellow?style=flat-square)](https://chrome.google.com/webstore)
+[![Chrome Extension](https://img.shields.io/badge/chrome-extension-yellow?style=flat-square)](https://chromewebstore.google.com/detail/pomodoro-timer/pfbdgdohllcpdkfccmekclkpfgfnaghj?authuser=0&hl=en)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
