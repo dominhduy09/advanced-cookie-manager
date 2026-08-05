@@ -1,5 +1,6 @@
 <div align="center">
-
+   <a href="https://www.producthunt.com/products/advanced-cookie-manager?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-advanced-cookie-manager" target="_blank" rel="noopener noreferrer"><img alt="Advanced Cookie Manager - Modern browser extension for viewing, editing, importing. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1215866&amp;theme=light&amp;t=1785946817768"></a>
+   
 # 🍪 Advanced Cookie Manager
 
 **A modern, feature-rich browser extension for managing cookies with beautiful glassmorphism UI**
